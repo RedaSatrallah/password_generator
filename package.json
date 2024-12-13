@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.4"
+  }
+}
